@@ -1,215 +1,181 @@
-```{=html}
 <h1 align="center">
-```
-Fala, eu sou o Leonardo 👋
-```{=html}
+  Leonardo 👋
 </h1>
-```
-```{=html}
-<h3 align="center">
-```
-Engenheiro de Controle e Automação • Desenvolvedor • IoT Enthusiast
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Construindo+solu%C3%A7%C3%B5es+do+hardware+ao+cloud.;Apps%2C+IoT%2C+automa%C3%A7%C3%A3o+e+sistemas+conectados." />`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<h3 align="center">
+  Engenheiro de Controle e Automação • Desenvolvedor • IoT
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Construindo+solu%C3%A7%C3%B5es+do+hardware+ao+cloud.;Apps%2C+IoT%2C+automa%C3%A7%C3%A3o+e+sistemas+conectados." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=for-the-badge&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-IoT%20%7C%20Cloud%20%7C%20Embedded-blue?style=for-the-badge">
+</p>
+
+---
 
 ## 🚀 Sobre mim
 
-Sou **Engenheiro de Controle e Automação** e desenvolvedor apaixonado
-por criar soluções completas, conectando:
+Sou **Engenheiro de Controle e Automação** e desenvolvedor focado em criar soluções completas, conectando:
 
-💻 Interfaces e aplicativos\
-⚙️ Sistemas embarcados\
-🌐 APIs e serviços backend\
-☁️ Cloud e infraestrutura\
-🏠 Automação residencial e IoT
+- 💻 Aplicações mobile e web
+- ⚙️ Sistemas embarcados
+- 🌐 APIs e backend
+- ☁️ Cloud e infraestrutura
+- 🏠 Automação residencial e IoT
 
-Atualmente sou cofundador da **ResiGo**, desenvolvendo aplicações mobile
-e web, além de atuar como projetista.
+Atualmente sou cofundador da **ResiGo**, onde desenvolvo aplicações mobile e web, além de atuar em projetos de engenharia.
 
-------------------------------------------------------------------------
+---
 
 ## 🔭 Atualmente trabalhando em
 
-🏠 **Automação residencial + IoT**
+### 🏠 Automação residencial e IoT
 
-Mantenho um ambiente próprio com servidor local para testes envolvendo:
+Tenho desenvolvido uma infraestrutura própria para testes e desenvolvimento envolvendo:
 
--   dispositivos conectados
--   APIs
--   monitoramento
--   serviços self-hosted
--   integrações cloud
--   automações inteligentes
+- Servidores locais
+- APIs
+- Dispositivos conectados
+- Monitoramento
+- Serviços self-hosted
+- Integração com nuvem
 
-------------------------------------------------------------------------
+---
 
-# 🛠️ Tecnologias e ferramentas
+# 🛠️ Tecnologias
 
-### 📱 Desenvolvimento
+## Desenvolvimento
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=flutter,dart,js,python,html,css" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,js,html,css" />
 </p>
-```
-### ☁️ Cloud & Backend
 
-```{=html}
+## Backend, Cloud e Infraestrutura
+
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=firebase,gcp,nodejs,linux,docker,git" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=firebase,gcp,nodejs,docker,linux,git" />
 </p>
-```
-### 🔌 Hardware & IoT
 
-```{=html}
+## Hardware e IoT
+
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 💡 O que eu construo
+# 💡 O que eu desenvolvo
 
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="50%">
-```
-### 📱 Aplicações
 
--   Flutter / Dart
--   Apps multiplataforma
--   Sistemas web
--   APIs REST
+### 📱 Software
 
-```{=html}
+- Aplicações Flutter
+- Sistemas web
+- APIs REST
+- Integrações entre serviços
+
 </td>
-```
-```{=html}
+
 <td width="50%">
-```
-### ⚡ Engenharia
 
--   ESP32
--   Arduino
--   STM32
--   Sensores
--   Automação
+### ⚡ Hardware
 
-```{=html}
+- ESP32
+- Arduino
+- STM32
+- Sensores
+- Automação
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
-<td>
-```
-### ☁️ Infraestrutura
 
--   Firebase
--   Google Cloud
--   Linux
--   Servidores próprios
+<td width="50%">
 
-```{=html}
+### ☁️ Cloud
+
+- Firebase
+- Google Cloud
+- Linux
+- Servidores próprios
+
 </td>
-```
-```{=html}
-<td>
-```
-### 🔗 Integrações
 
--   Apps ↔ APIs
--   Hardware ↔ Cloud
--   IoT ↔ Automações
+<td width="50%">
 
-```{=html}
+### 🔗 Sistemas conectados
+
+- Aplicativo ↔ API
+- Hardware ↔ Cloud
+- IoT ↔ Automações
+
 </td>
-```
-```{=html}
+
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
 # 🎓 Formação
 
-🎓 Engenharia de Controle e Automação --- **UFSM**
+🎓 **Engenharia de Controle e Automação**  
+Universidade Federal de Santa Maria (UFSM)
 
-🏆 Mérito Acadêmico CREA-RS --- 2026
+🏆 Mérito Acadêmico CREA-RS - 2026
 
-📚 Cursos: - CS50 --- Harvard - CS50 AI with Python --- Harvard
+📚 Cursos:
 
-------------------------------------------------------------------------
+- CS50 - Harvard
+- CS50 AI with Python - Harvard
+
+---
 
 # 📌 Projeto acadêmico
 
-### Alimentador automático inteligente com aplicativo e IoT
+## Alimentador automático inteligente com aplicativo e IoT
 
 Projeto envolvendo:
 
--   aplicativo mobile
--   comunicação com dispositivos
--   monitoramento remoto
--   automação embarcada
+- Aplicativo mobile
+- Comunicação sem fio
+- Monitoramento remoto
+- Automação embarcada
+- Integração hardware/software
 
-------------------------------------------------------------------------
+---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true" />`{=html}
 
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />`{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-```{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 # 📫 Contato
 
-`<a href="https://wa.me/5551996404845">`{=html}
-`<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat"/>`{=html}
-```{=html}
+<p>
+<a href="https://wa.me/5551996404845">
+<img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
-```
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat&color=blue">
+</p>
